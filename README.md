@@ -31,11 +31,11 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaman Modak&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZamanModak&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaman Modak&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZamanModak&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaman Modak&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamanModak&layout=compact&theme=tokyonight" />
 </p> 
 
 ---
