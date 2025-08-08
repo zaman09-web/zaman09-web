@@ -31,12 +31,12 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zamanmodak&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaman Modak&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zamanmodak&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaman Modak&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamanmodak&layout=compact&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaman Modak&layout=compact&theme=tokyonight" />
+</p> 
 
 ---
 
